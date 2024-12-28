@@ -1,5 +1,8 @@
 JUDUL : 
-Deteksi Objek Berbasis Teknologi di Industri Manufaktur untuk Mendukung Inspeksi Kualitas Produk
+Deteksi Cacat pada PCB dalam Industri Manufaktur untuk Mendukung Inspeksi Kualitas Produk
+
+DATA : 
+CACAT PADA PCB
 
 ANGGOTA : 
 MUHAMMAD NAUFAL THARIQ ARDIAN-1301213075
