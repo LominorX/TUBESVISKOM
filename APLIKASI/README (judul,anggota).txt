@@ -1,9 +1,6 @@
 JUDUL : 
 Deteksi Cacat pada PCB dalam Industri Manufaktur untuk Mendukung Inspeksi Kualitas Produk
 
-DATA : 
-CACAT PADA PCB
-
 ANGGOTA : 
 MUHAMMAD NAUFAL THARIQ ARDIAN-1301213075
 FAJARI SALIM HANRI-1301213299
